@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi! 👋
+Thank you for visiting my page.
+- 🔭 I'm currently working as Silicon Firmware Development Engineer at Intel Corporation.
+- 📫 You can reach me at #fmdx on IRC libera.chat or matrix - @sjg:haxx.space.
+- 📫 I'm sometimes QRV on 40m-10m SSB, DIGI (BPSK31, FT8) as SP2SJG (usually portable).
 
-<!--
-**sgrams/sgrams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some of my links:
+- https://haxx.space - A blog on C/C++ coding, opsec, rf, net
+- https://qrzcq.com/call/SP2SJG - My callsign's QRZCQ page
+- https://500px.com/grams - Some of my photos
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+73 de Stan SP2SJG!
