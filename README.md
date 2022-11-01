@@ -9,4 +9,4 @@ Here are some of my links:
 - https://qrzcq.com/call/SP2SJG - My callsign's QRZCQ page
 - https://500px.com/grams - Some of my photos
 
-73 de Stan SP2SJG!
+73
