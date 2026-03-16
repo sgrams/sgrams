@@ -27,5 +27,6 @@ Outside of work, I spend time on landscape and travel photography, amateur radio
 - website: [stangrams.com](https://stangrams.com/)
 - instagram: [stangrams.ph](https://instagram.com/stangrams.ph)
 - matrix: `@sjg:haxx.space`
+- irc: `@sjg` on libera network
 - ham radio callsign: `SP2SJG` - see [qrzcq.com](https://qrzcq.com/call/SP2SJG/)
 - email: my nickname at `haxx.space`
