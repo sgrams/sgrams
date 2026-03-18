@@ -22,7 +22,7 @@ Outside of work, I spend time on landscape and travel photography, amateur radio
 - confidential computing and platform internals
 - photography, radio, and side projects
 
-## Elsewhere
+## Contact
 
 - website: [stangrams.com](https://stangrams.com/)
 - instagram: [stangrams.ph](https://instagram.com/stangrams.ph)
