@@ -2,7 +2,7 @@
 
 I'm a Senior Firmware Engineer at Intel Corporation, focused primarily on TDX Virtual Firmware and BIOS work.
 
-Most of my time goes into low-level platform work: firmware, boot flows, virtualization, debugging, and the boundary between hardware and software.
+Most of my time goes into low-level confidential computing platform work: firmware, boot flows, virtualization, debugging, and the boundary between hardware and software.
 
 Outside of work, I spend time on landscape and travel photography, amateur radio, and personal projects.
 
@@ -19,7 +19,7 @@ Outside of work, I spend time on landscape and travel photography, amateur radio
 ## Happy to talk about
 
 - firmware and boot flows
-- virtualization and platform internals
+- confidential computing and platform internals
 - photography, radio, and side projects
 
 ## Elsewhere
