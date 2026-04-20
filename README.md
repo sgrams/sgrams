@@ -1,6 +1,7 @@
 # Stan Grams ```/ sjg /```
+Hi there!
 
-I'm a Senior Firmware Engineer at Intel Corporation, focused primarily on TDX Virtual Firmware and BIOS work.
+I'm a Senior Firmware Development Engineer at Intel Corporation, focused primarily on TDX Virtual Firmware and BIOS work.
 
 Most of my time goes into low-level confidential computing platform work: firmware, boot flows, virtualization, debugging, and the boundary between hardware and software.
 
@@ -10,7 +11,7 @@ Outside of work, I spend time on landscape and travel photography, amateur radio
 
 - TDX Virtual Firmware and BIOS
 - platform bring-up and low-level debugging
-- personal projects around radio, Linux, and hardware
+- personal projects around radio, Linux, AI and hardware
 
 ## Toolbox
 
@@ -19,6 +20,7 @@ Outside of work, I spend time on landscape and travel photography, amateur radio
 ## Happy to talk about
 
 - firmware and boot flows
+- AI/agentic workflows
 - confidential computing and platform internals
 - photography, radio, and side projects
 
