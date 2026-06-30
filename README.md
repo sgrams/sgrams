@@ -34,3 +34,4 @@ See my personal projects (including Rust-based multi-rig HAM controller `trx-rs`
 - irc: `@sjg` on libera network
 - ham radio callsign: `SP2SJG` - see [qrzcq.com](https://qrzcq.com/call/SP2SJG)
 - email: my nickname at `haxx.space`
+- matrix: my nickname at `haxx.space`
