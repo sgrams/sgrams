@@ -25,7 +25,7 @@ Outside of work, I spend time on landscape and travel photography, amateur radio
 - photography, radio, and side projects
 
 ## git.haxx.space
-See my personal projects (including Rust-based multi-rig HAM controller `trx-rs` on https://git.haxx.space/
+See my personal projects (including Rust-based multi-rig HAM controller `trx-rs` on https://git.haxx.space/)
 
 ## Contact
 
