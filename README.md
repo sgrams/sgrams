@@ -11,7 +11,7 @@ Outside of work, I spend time on landscape and travel photography, amateur radio
 
 - TDX Virtual Firmware and BIOS
 - platform bring-up and low-level debugging
-- personal projects around radio, Linux, AI and hardware
+- personal projects around radio, Linux, macOS, cryptography, AI and STM32
 
 ## Toolbox
 
