@@ -30,8 +30,4 @@ See my personal projects (including Rust-based multi-rig HAM controller `trx-rs`
 ## Contact
 
 - website: [stangrams.com](https://stangrams.com/)
-- instagram: [stangrams.ph](https://instagram.com/stangrams.ph)
-- irc: `@sjg` on libera network
-- ham radio callsign: `SP2SJG` - see [qrzcq.com](https://qrzcq.com/call/SP2SJG)
-- email: my nickname at `haxx.space`
-- matrix: my nickname at `haxx.space`
+- email: stanislawgrams [at] intel.com / stanislawgrams [at] gmail.com
